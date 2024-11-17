@@ -73,6 +73,10 @@ used.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
 
 #### Synthesis RTL Schematic :
 
@@ -98,6 +102,10 @@ used.
 #### Timing Report: 
 
 ![WhatsApp Image 2024-11-17 at 11 46 32_29155dbf](https://github.com/user-attachments/assets/cc084f9b-c7af-4aaf-960f-6929fecf4cb9)
+
+<br>
+<br>
+<br>
 
 #### Result: 
 
