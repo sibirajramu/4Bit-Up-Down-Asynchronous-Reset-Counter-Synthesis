@@ -34,6 +34,7 @@ set_input_delay -max 0.8 [get_ports "rst"] -clock [get_clocks "clk"]
 set_output_delay -max 0.8 [get_ports "count"] -clock [get_clocks "clk"]
 ```
 
+<br>
 
 i→ Creates a Clock named “clk” with Time Period 2ns and On Time from t=0 to t=1.
 
@@ -73,7 +74,9 @@ used.
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 
 #### Synthesis RTL Schematic :
 
@@ -91,6 +94,8 @@ used.
 <br>
 <br>
 <br>
+<br>
+<br>
 
 #### Power Report:
 
@@ -103,7 +108,8 @@ used.
 <br>
 <br>
 <br>
-
+<br>
+<br>
 #### Result: 
 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
