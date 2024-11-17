@@ -71,9 +71,6 @@ used.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 #### Synthesis RTL Schematic :
 
