@@ -74,9 +74,6 @@ used.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 #### Synthesis RTL Schematic :
 
@@ -89,8 +86,6 @@ used.
 
 ![WhatsApp Image 2024-11-17 at 11 46 18_2f6a1542](https://github.com/user-attachments/assets/a426ca7a-9949-4a81-9e94-f8566445d5c9)
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -110,7 +105,8 @@ used.
 <br>
 <br>
 <br>
-#### Result: 
+
+## Result: 
 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
 
